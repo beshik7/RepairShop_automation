@@ -4,6 +4,7 @@ import json
 import logging
 import os
 
+
 # Setup logging
 logging.basicConfig(level=logging.INFO, filename='script.log',
                     format='%(asctime)s:%(levelname)s:%(message)s')
